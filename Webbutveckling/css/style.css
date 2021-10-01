@@ -1,0 +1,8 @@
+.background {background-color: rgb(12, 145, 155);}
+.bild1 {width: 320px;}
+.border {border-color: rgb(17, 206, 212);
+border-style:ridge;
+border-width: 15px;
+border-radius: 15px;
+}
+.bild2 {width:  900px;}
